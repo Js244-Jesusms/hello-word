@@ -1,0 +1,9 @@
+#usuario ira inserir  dois valores  
+#variavel é um espaço reservado na memoria que recebe dados 
+#tipos variaveis (texto,boleano, numero(intero e float(flutuante-peso , altura , medida ))
+
+ numero1 = int (input("inserir o primero numero:"))
+ prit(numero1)
+
+ numero2 = int (float("inserir  numero que seja flutuante :"))
+ prit(numero2)
