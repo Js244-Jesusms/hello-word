@@ -26,3 +26,11 @@ print("A multipilcação dos numeros é:", multipilcação)
 #calculo da potencia 
 potencia = numero1 -+ numero2 
 print("a pontencia do numero1 elevado ao numero2 é:")
+
+
+#exemplo de boleano 
+idade = int(input("Digite a sua idade :"))
+if idade >= 18:
+    print(True)
+else:
+    print(False)1
