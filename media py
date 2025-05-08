@@ -1,0 +1,17 @@
+#vocé foi  contratado para criar  um  programa de calculado de media de notas 
+#esse programa recebera  duas notas e calculará a media 
+#1.Solicitar o input das notas numerica [int ou float]
+nota1 = int(input("Realizar o  calculo de medida nota:")) 
+nota2 = int(input("Realizar o  calculo de medida nota:")) 
+
+#2.Realizar o  calculo de medida =  (nota1 + nota2)/22
+
+media = (nota1 + nota2 ) /2
+print(media)
+if media >= 5 :
+   print("aprovado")
+
+else:
+   print("reporvado")
+#3. verificar se o aluno foi aprovado  ou reprovado , para isso  vamos fazer uma comparação.
+
