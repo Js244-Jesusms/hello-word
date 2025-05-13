@@ -2,7 +2,8 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo M.v JESUS, tenho 17 anos e sou natural de santana de parnaiba. Concluí o ensino médio no C>M colaço, . 
+Me chamo [M.v JESUS], tenho 17 anos e sou natural de santana de parnaiba. Concluí o ensino médio no C.M colaço, ARDUINO e robotica 
+
 
 
 ### 🤖 Linguagens e Tecnologias
